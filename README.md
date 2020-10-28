@@ -1,7 +1,7 @@
 # The Dot Click Computer
 >Draw dots, click your speaker, make something cool.
 
-###Are you up for a challenge?  
+### Are you up for a challenge?  
 
 Dot Click is a very simplistic virtual computer operated by a single function called 705,600 times per second.
 
