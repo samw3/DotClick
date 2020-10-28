@@ -12,7 +12,7 @@ Dot Click is a very simplistic virtual computer operated by a single function ca
     }
 
 ### The `dot` parameter
-The Dot Click computer processes **11,760 dot-click bytes** 60 times per second. The first 9216 values of `dot` are pixels on the screen.  The dot-click byte is split into two sections, a `dot` section and a `click` section.  
+The Dot Click computer processes **11,760 dot-click bytes** 60 times per second.
 
 9,216 of those dots are visible on the display.  The remaining 2,544 dots are not visible, but audio is still processed for these output values.
 
